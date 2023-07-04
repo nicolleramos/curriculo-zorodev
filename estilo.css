@@ -1,0 +1,24 @@
+
+h5 {
+    color: #929d8d;
+}
+
+h1{
+    color: #929d8d;
+}
+
+body{
+    font-family: arial;
+    margin: 200px;
+}
+
+.txt1{
+    display: inline;
+    float: left;
+}
+
+.txt2{
+    display: inline;
+    float: right;
+}
+
