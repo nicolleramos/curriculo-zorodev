@@ -1,1 +1,2 @@
-# curriculo-zorodev
+# currículo-zoro developer! 🟢
+
